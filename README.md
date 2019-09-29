@@ -64,6 +64,7 @@ Rules might be updated from time to time, without prior notice.
 ```
 
 #### *Write-up*
+* [Pwnme](https://github.com/nafiez/various-stuff/blob/master/wargamesXnanosec%20-%20pwnme%20challenge%20(partial%20writeup))
 
 #### *Final Scoreboard*
 
