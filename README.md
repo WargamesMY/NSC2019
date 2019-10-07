@@ -66,6 +66,7 @@ Rules might be updated from time to time, without prior notice.
 #### *Write-up*
 * [Pwnme - CREW](https://github.com/nafiez/various-stuff/blob/master/wargamesXnanosec%20-%20pwnme%20challenge%20(partial%20writeup))
 * [e-moji,websec101,notbraille - yed](https://fareedfauzi.github.io/nanosecwgmy2019/)
+* [8K - Sharan](https://threathounds.com/8K-Writeup/)
 
 #### *Final Scoreboard*
 
